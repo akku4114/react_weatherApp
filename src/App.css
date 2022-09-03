@@ -3,11 +3,13 @@
 }
 .wetherBg{
   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOYFVbKD9_KEJPAYbMkPUp2SNn3q68vaf0tw&usqp=CAU");
+  background-size: cover;
   height: 50vh;
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  
 }
 .heading{
   color:white;
