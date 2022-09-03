@@ -4,8 +4,7 @@
 }
 .wetherBg{
   background: url("https://www.pentair.com/content/dam/extranet/global/images/stock/tier3-with-people-no-faces/residential/drinking-water/safe-at-home-during-storm-1440x450.jpg");
-  background-size: cover;
-  background-attachment:fixed;
+  background-repeat: no-repeat;
   height: 50vh;
   display: flex;
   align-items: center;
